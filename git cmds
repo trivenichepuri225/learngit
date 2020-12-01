@@ -1,0 +1,10 @@
+git init 
+This the command used to convert directory into repository.
+eg: $ mkdir git-repo
+    $ cd git-repo
+    $ git init
+
+git add
+Befor commiting a file it should be added to staging area.git add will move file to staging area.
+Eg: here I am opening notepad through git terminal and creating text file. 
+$ git config --gobal 
